@@ -1,0 +1,4 @@
+/node_modules
+/privatekey.txt
+/.env
+/logs/*.log
