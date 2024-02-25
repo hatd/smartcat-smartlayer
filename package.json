@@ -1,11 +1,15 @@
 {
   "name": "smartcat-smartlayer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Auto feed/clean/play smartcat in smartlayer network",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hatd/smartcat-smartlayer.git"
   },
   "author": "hatd",
   "license": "ISC",
